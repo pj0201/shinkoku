@@ -26,3 +26,8 @@ shinkoku.config.yaml
 shinkoku.db
 shinkoku.db-wal
 shinkoku.db-shm
+
+# Environment files (W2 security audit 2026-06-30)
+.env
+.env.*
+!.env.example
